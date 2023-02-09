@@ -1,5 +1,4 @@
-{
-    "books":[
+{"books":[
   {
     "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
     "book_name": "Harry Potter and the Philosopher's Stone",
@@ -10,16 +9,4 @@
 		"cost": 1299,
 		"borrowed": false,
   }
-],"borrows":[
-  {
-    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-    "book_name": "Harry Potter and the Philosopher's Stone",
-    "author": "K. K. Rowling",
-		"genre": "fiction",
-		"edition": "2022",
-		"publisher": "Bloomsbury",
-		"cost": 1299,
-		"borrowed": true,
-  }
-]
-  }
+]}
