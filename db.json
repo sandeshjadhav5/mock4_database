@@ -1,34 +1,25 @@
 {
-    "peoples": [
-      {
-        "id": 1,
-        "name": "Andres Pares",
-        "age": 28,
-        "email": "andrespares@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "lokesh pablo",
-        "age": 33,
-        "email": "lokeshpablo@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      }
-    ]
+    "books":[
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": false,
+  }
+],"borrows":[
+  {
+    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "K. K. Rowling",
+		"genre": "fiction",
+		"edition": "2022",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": true,
+  }
+]
   }
